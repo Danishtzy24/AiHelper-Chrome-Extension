@@ -1,0 +1,8 @@
+AiHelper/
+├── icons/
+│   ├── icon.png
+├── manifest.json
+├── background.js
+├── popup.html
+├── styles.css
+├── popup.js
